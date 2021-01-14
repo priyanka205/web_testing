@@ -1,0 +1,6 @@
+https://www.16personalities.com/free-personality-test
+
+1)Go to this link and take your personality test.
+2)Automate this using selenium python. Randomly choose the answer.
+3)Scrape each questions and your answers(randomly clicked value) and write down it in excel file.
+4)At last, scrape the result and save it in a text file.
